@@ -31,7 +31,7 @@ After successfully connecting Perks, we can proceed to install the browser exten
 
 You can track your activity [here](https://app.blockmesh.xyz/ui/dashboard).
 
-## Running a node on Linux
+## Running a node on Linux (No longer supported by the developer Blockmesh)
 For a successful launch, we need to register on the [BlockMesh website](https://app.blockmesh.xyz/register?invite_code=nodemafia). Confirm your email and remember your password.
 
 **System requirements:** 1CPU/1RAM/5SSD — minimal and Ubuntu 22.04.
